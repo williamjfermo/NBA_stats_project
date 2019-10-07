@@ -41,7 +41,7 @@ Use of statistical analysis on NBA data to help teams win an NBA championship.  
  
 
 ## Featured Notebooks
-** [Paired Sample T-test of Home wins vs Road wins](https://github.com/williamjfermo/NBA_stats_project/blob/master/NBA_standings_home_record.ipynbink)   
+* [Paired Sample T-test of Home wins vs Road wins](https://github.com/williamjfermo/NBA_stats_project/blob/master/NBA_standings_home_record.ipynbink)   
 * [Tableau NBA Home Wins vs Road Wins 2009-2019](https://public.tableau.com/profile/william.fermo#!/vizhome/Book1_15702902042240/Sheet2)
 * [Conference indicatiors 1980 to 2019](https://github.com/williamjfermo/NBA_stats_project/blob/master/Conf%20Indictor%201980%20to%202019.ipynb)
 * [Conference indicatiors 2013 to 2019](https://github.com/williamjfermo/NBA_stats_project/blob/master/Conf%20Indictor%202013%20to%202019.ipynb)
