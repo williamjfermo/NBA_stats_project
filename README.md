@@ -3,7 +3,7 @@ This project is a part of the [Flatiron](http://https://flatironschool.com/) for
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to use Statistical Analysis on NBA data to help teams win an NBA championship.    
+The purpose of this project is to use Statistical Analysis on NBA data to help teams win the NBA championship.    
 
 ### Methods Used
 * Descriptive Statistics
